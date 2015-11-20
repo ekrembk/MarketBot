@@ -1,0 +1,8 @@
+{
+    "name": "ekrembk/marketbot",
+    "autoload": {
+        "psr-4": {
+            "\\PastFuture\\MarketBot\\": "./"
+        }
+    }
+}
